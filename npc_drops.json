@@ -2743,6 +2743,69 @@
     "rare": []
   },
   {
+	"id": 1676,
+	"common": [
+	  {
+		"id": 526,
+		"count": 1,
+		"chance": 1
+	  },
+	  {
+		"id": 2746,
+		"count": 1,
+		"chance": 0.06
+	  },
+	  {
+		"id": 2748,
+		"count": 1,
+		"chance": 0.04
+	  }
+	],
+	"rare": []
+  },
+  {
+	"id": 1677,
+	"common": [
+	  {
+		"id": 526,
+		"count": 1,
+		"chance": 1
+	  },
+	  {
+		"id": 2746,
+		"count": 1,
+		"chance": 0.06
+	  },
+	  {
+		"id": 2748,
+		"count": 1,
+		"chance": 0.04
+	  }
+	],
+	"rare": []
+  },
+  {
+	"id": 1678,
+	"common": [
+	  {
+		"id": 526,
+		"count": 1,
+		"chance": 1
+	  },
+	  {
+		"id": 2746,
+		"count": 1,
+		"chance": 0.06
+	  },
+	  {
+		"id": 2748,
+		"count": 1,
+		"chance": 0.04
+	  }
+	],
+	"rare": []
+  },
+  {
     "id": 2025,
     "common": [
       {
